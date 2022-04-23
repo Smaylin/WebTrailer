@@ -1,0 +1,43 @@
+﻿@{ ViewData["Title"] = "TrailersApp"; }
+@model IEnumerable<TrailerWeb.dbTrailers>
+
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" })) 
+    { 
+        <main>
+            <div class="pelicula-principal">
+                <div class="contenedor">
+                    <h2>Pelicula destacada de hoy</h2>
+                    <h3 class="titulo">Interestellar</h3>
+                    <p class="descripcion">
+                        Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.
+                    </p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/UoSSbmD9vqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                        
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="peliculas-recomendadas contenedor">
+                <div class="contenedor-titulo-controles">
+                    <h3>Tendencias!</h3>
+                    <div class="indicadores"></div>
+                </div>
+                <div class="contenedor-principal">
+                    <button type="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>
+
+                    <div class="contenedor-carousel">
+                        <div class="carousel">
+                            @foreach (var item in Model)
+                            {
+            <div class="pelicula">
+                <a onclick="location.href='@Url.Action("Contact", "Home", new { id=item.ID_Trailer })'" %>  <img width="340px" height="225" src="@Url.Action("getImage", "Home", new { id=item.ID_Trailer })" alt="Alternate Text" /></a>
+            </div>}
+                        </div>
+                    </div>
+                    <button type="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button>
+                </div>
+            </div>
+        </main>
+    }
+</body>	

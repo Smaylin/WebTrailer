@@ -1,0 +1,90 @@
+﻿@model TrailerWeb.dbTrailers
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Content/css/crudStyle.css" asp-append-version="true" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>dbTrailers</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Titulo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Director)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Director)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Sipnosis)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Sipnosis)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Reparto)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Reparto)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Duracion)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Duracion)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Fecha)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Trailer)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Trailer)
+            </dd>
+    
+            @*<dt>
+                @Html.DisplayNameFor(model => model.img_logo)
+            </dt>*@
+    
+            @*<dd>
+                @Html.DisplayFor(model => model.img_logo)
+            </dd>*@
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ID_Trailer }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

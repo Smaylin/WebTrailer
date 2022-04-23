@@ -1,0 +1,115 @@
+﻿@{ ViewData["Title"] = "Trailers"; }
+@model IEnumerable<TrailerWeb.dbTrailers>
+
+
+<body>
+    @using (Html.BeginForm("Registrar", "Acceso", FormMethod.Post, new { enctype = "multipart/form-data" }))
+   {        
+    <main>
+        <div class="peliculas-recomendadas contenedor">
+            <div class="contenedor-titulo-controles">
+                <h3>Tendencias!</h3>
+                <div class="indicadores"></div>
+            </div>
+            <div class="contenedor-principal">
+                <button type="button"  id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>
+
+                <div class="contenedor-carousel">
+                    <div class="carousel">
+                        @foreach (var item in Model)
+                        {
+                            <div class="pelicula">
+                                <a onclick="location.href='@Url.Action("Index", "Home")'" %> <img width="340px" height="225" src="@Url.Action("getImage", "Acceso", new { id=item.ID_Trailer })" alt="Alternate Text" /></a>
+                            </div>
+                         }
+
+                    </div>
+                </div>
+                <button type="button"  id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button>
+            </div>
+        </div>
+
+        <div class="peliculas-accion contenedor">
+            <div class="contenedor-titulo-controles">
+                <h3>Peliculas de acción</h3>
+            </div>
+            <div class="contenedor-accion">
+                <div class="contenedor-accion-carousel">
+                    <div class="carousel2">
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/2docezZl574" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/UvSio24ZhaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/qZuQc-GvRlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/b51QB-jn5gU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/TcMBFSGVi1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="peliculas-accion contenedor">
+            <div class="contenedor-titulo-controles">
+                <h3>♡ Romanticas ♡</h3>
+            </div>
+            <div class="contenedor-accion">
+                <div class="contenedor-romance-carousel">
+                    <div class="carousel2">
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/FC6biTjEyZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/8iCwtxJejik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/2EBAVoN8L_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/DvsZtGxsvV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="340" height="225" src="https://www.youtube.com/embed/Eh993__rOxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="peliculas-accion contenedor">
+            <div class="contenedor-titulo-controles">
+                <h3>☠ TERROR ☠</h3>
+            </div>
+            <div class="contenedor-accion">
+                <div class="contenedor-terror-carousel">
+                    <div class="carousel2">
+                        <div class="peliculaa">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/NE6YrUzcKeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/LCEJTXHbuk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/ccaNMcPqpQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/8lm7nR-xRqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="pelicula">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/C4XP8FSqTTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    </main>
+    }
+</body>

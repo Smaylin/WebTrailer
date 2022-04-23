@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TrailerWeb",
+    "\\TrailerWeb\\Content",
+    "\\TrailerWeb\\Content\\css",
+    "\\TrailerWeb\\Controllers",
+    "\\TrailerWeb\\Views",
+    "\\TrailerWeb\\Views\\Acceso",
+    "\\TrailerWeb\\Views\\dbTrailers",
+    "\\TrailerWeb\\Views\\Home"
+  ],
+  "SelectedNode": "\\TrailerWeb\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,32 @@
+﻿@{ ViewData["Title"] = "TrailersApp"; }
+@model TrailerWeb.dbTrailers
+
+<body>
+
+    <div class="pelicula-strange">
+        <div class="contenedor">
+
+            <h3 class="titulo">
+                @Html.DisplayFor(model => model.Titulo)
+            </h3>
+            <p class="descripcion">
+                @Html.DisplayFor(model => model.Sipnosis)
+            </p>
+            <p>
+                @Html.DisplayFor(model => model.Reparto)
+            </p>
+            <br>
+            <p>
+                @Html.DisplayFor(model => model.Director)
+            </p>
+            <br>
+            <p>
+                @Html.DisplayFor(model => model.Duracion)
+            </p>
+            <br>
+            <p>
+                @Html.DisplayFor(model => model.Fecha)
+            </p>
+        </div>
+    </div>
+</body>

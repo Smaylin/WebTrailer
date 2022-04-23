@@ -1,0 +1,166 @@
+﻿:root {
+    --rojo: #E50914;
+    --fondo: #141414;
+}
+
+h1 {
+    color: #FFF;
+}
+
+label {
+    color: #FFF;
+}
+
+a {
+    color: #E50914;
+}
+
+.contenedor a {
+    text-decoration: none;
+    color: #E50914;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    background: var(--fondo);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+header {
+    padding: 25px 0;
+    background-color: #141414;
+}
+
+    header .contenedor {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    header .logotipo {
+        font-family: 'Bebas Neue', cursive;
+        font-weight: normal;
+        color: var(--rojo);
+        font-size: 40px;
+    }
+
+    header nav a {
+        color: #AAA;
+        text-decoration: none;
+        margin-right: 20px;
+    }
+
+        header nav a:hover,
+        header nav a.activo {
+            color: #FFF;
+        }
+
+body {
+    margin: 0;
+    padding: 0;
+    
+    background-size: auto;
+    font-family: sans-serif;
+    min-height: 100vh;
+}
+
+.login-box {
+    padding-top: 10px;
+    padding-left: 40px;
+    width: 100%;
+    margin: auto 0;
+    display: flex;
+}
+
+.login {
+    width: 75%;
+    height: 45%;
+    background: #000;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 40px 30px;
+    padding-bottom: 15px;
+}
+
+.login-box h1 {
+    margin: 0;
+    padding: 10px 10px 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.login-box label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.login-box input {
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: white;
+    text-align: start;
+}
+
+    .login-box input[type="text"] {
+        border: none;
+        border-bottom: 1px solid #fff;
+        background: white;
+        outline: none;
+        height: 40px;
+        color: rgb(0, 0, 0, 0.4);
+        font-size: 16px;
+    }
+
+    .login-box input[type="submit"] {
+        border: none;
+        outline: none;
+        height: 40px;
+        background: #b80f22;
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+    }
+
+        .login-box input[type="submit"]:hover {
+            cursor: pointer;
+            background: #f8de8f;
+            color: rgb(182, 0, 0);
+        }
+
+.login-box textarea {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: white;
+    outline: none;
+    height: 250px;
+    width: 500px;
+    color: rgb(0, 0, 0, 0.4);btn-link
+    font-size: 16px;
+}
+
+
+.form-horizontal {
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*text-align: center;*/
+     
+   /* padding-left: 15px;
+    max-width: 200px;*/
+}
+dl {
+   text-align:center;
+   color:white;
+   font-size:large;
+   
+}
+
+

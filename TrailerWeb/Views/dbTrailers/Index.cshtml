@@ -1,0 +1,97 @@
+﻿@model IEnumerable<TrailerWeb.dbTrailers>
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="https://kit.fontawesome.com/f832396757.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/Content/css/crudStyle.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container-index">
+        <div class="container">
+            <p>
+                <a href="#"><i class="fa-solid fa-square-plus"></i> @Html.ActionLink("Create New", "Create")</a>
+                 
+            </p>
+            <table class="table">
+                <tr>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.Titulo)
+                       
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Director)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Sipnosis)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Reparto)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Duracion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Fecha)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Trailer)
+                    </th>
+                    @*<th>
+                        @Html.DisplayNameFor(model => model.img_logo)
+                    </th>*@
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Titulo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Director)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sipnosis)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Reparto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Duracion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Fecha)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Trailer)
+                        </td>
+                        @*<td>
+                            @Html.DisplayFor(modelItem => item.img_logo)
+                        </td>*@
+                    <td>
+                        
+                        <a href="#"><i class="fa-solid fa-file-pen"></i> @Html.ActionLink("Edit", "Edit", new { id = item.ID_Trailer }) |</a>
+                        <a href="#"><i class="fa-regular fa-pen-to-square"></i> @Html.ActionLink("Details", "Details", new { id = item.ID_Trailer }) |</a> 
+                        <a href="#"><i class="fa-regular fa-trash-can"></i>  @Html.ActionLink("Delete", "Delete", new { id = item.ID_Trailer })</a>
+                        
+                    </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</body>
+</html>

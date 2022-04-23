@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    @Styles.Render("~/Content/fontawesome")
+    <link rel="stylesheet" href="~/Content/css/site.css" asp-append-version="true" />
+    <script src="https://kit.fontawesome.com/f832396757.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="~/Content/img/png-transparent-black-and-red-character-illustration-league-of-legends-electronic-sports-minecraft-logo-logo-esport-sport-fictional-character-twitch.png">
+</head>
+<body>
+    <header>
+        <div class="contenedor">
+            <h2 class="logotipo"><a @Html.ActionLink("TrailersApp", "Index", "Home")</a></h2>
+            <nav>
+                <a @Html.ActionLink("Inicio", "Index", "Home")</a>
+                <a @Html.ActionLink("Trailers", "Registrar", "Acceso")</a>
+                <a @Html.ActionLink("Admin", "index", "dbTrailers")</a>
+                @*<a @Html.ActionLink("Login", "Login", "Acceso")</a>
+                <a @Html.ActionLink("Salir", "CerrarSesion", "Home")</a>*@
+                @*<a @Html.ActionLink("Agregar", "Contact", "Home")</a>*@
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+    <script src="~/Content/js/site.js" asp-append-version="true"></script>
+    @*@await RenderSectionAsync("Scripts", required: false)*@
+</body>
+</html>
+
+<!--- Michael recuerda, crear la opcion de que el agregar te redireccione a admin y unicamente una vez logeado te permita agregar --->

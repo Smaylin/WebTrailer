@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Db_MOVIEModelStoreContainer" CdmEntityContainer="Db_MOVIEEntities">
+    <EntitySetMapping Name="dbTrailers">
+      <EntityTypeMapping TypeName="Db_MOVIEModel.dbTrailers">
+        <MappingFragment StoreEntitySet="dbTrailers">
+          <ScalarProperty Name="ID_Trailer" ColumnName="ID_Trailer" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="Sipnosis" ColumnName="Sipnosis" />
+          <ScalarProperty Name="Reparto" ColumnName="Reparto" />
+          <ScalarProperty Name="Duracion" ColumnName="Duracion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Trailer" ColumnName="Trailer" />
+          <ScalarProperty Name="img_logo" ColumnName="img_logo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

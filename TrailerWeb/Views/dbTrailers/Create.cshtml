@@ -1,0 +1,106 @@
+﻿@model TrailerWeb.dbTrailers
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    @*<link rel="stylesheet" href="~/Content/css/form.css" asp-append-version="true" />*@
+    <title>Create</title>
+</head>
+
+<body>
+    @using (Html.BeginForm("Create", "dbTrailers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal">
+            <h4>dbTrailers</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Titulo, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Titulo, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Titulo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Director, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Director, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Director, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sipnosis, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>*@
+                    @Html.EditorFor(model => model.Sipnosis, new { htmlAttributes = new { @class = "form-control"  }  })
+        @*<textarea  class="form-control" name="Sipnosis" id="" cols="30" rows="10" placeholder="Sipnosis" required></textarea>*@
+                    @Html.ValidationMessageFor(model => model.Sipnosis,  "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Reparto, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Reparto, new { htmlAttributes = new { @class = "form-control" } })
+                    @*<textarea class="form-control" name="Reparto" id="" cols="20" rows="10" placeholder="Reparto" required></textarea>*@
+                    @Html.ValidationMessageFor(model => model.Reparto, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Duracion, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Duracion, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Duracion, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Fecha, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Fecha, new { htmlAttributes = new { @class = "form-control" } })
+                    @*<input type="date" id="start" name="trip-start" value="2022-04-21">*@                           
+                    @Html.ValidationMessageFor(model => model.Fecha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.Trailer, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Trailer, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Trailer, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                @Html.LabelFor(model => model.img_logo, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.EditorFor(model => model.img_logo, new { htmlAttributes = new { @class = "form-control" } })*@
+                    <input type="file" name="imgload"/>
+                    @Html.ValidationMessageFor(model => model.img_logo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+    
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    
+    <div class="btn-link">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>

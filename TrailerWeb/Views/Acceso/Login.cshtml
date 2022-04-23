@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/Content/css/Login.css" rel="stylesheet" />
+    <title>Login</title>
+    <link rel="shortcut icon" href="~/Content/img/png-transparent-black-and-red-character-illustration-league-of-legends-electronic-sports-minecraft-logo-logo-esport-sport-fictional-character-twitch.png">
+</head>
+
+<body>
+    <div class="login-box">
+        <div class="login">
+            <form action="@Url.Action("Login","Acceso")" method="post">
+                <h1>Incia sesion aquí:</h1>
+                <!-- Username -->
+                <label for="username">Correo:</label>
+                <input type="text" placeholder="Correo" name="correo">
+                <!-- Password -->
+                <label for="password">Contraseña:</label>
+                <input type="password" placeholder="Contraseña" name="clave">
+                <div id="lower">
+                    <!-- Submit Button -->
+                    <input type="submit" value="Iniciar Sesion">
+                    <br>
+                    <br>
+                    <p> No eres administrador? <a href=#>Envia tu solicitud para ser administrador!</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

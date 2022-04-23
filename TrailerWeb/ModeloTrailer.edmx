@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Db_MOVIEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="dbTrailers">
+          <Key>
+            <PropertyRef Name="ID_Trailer" />
+          </Key>
+          <Property Name="ID_Trailer" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Titulo" Type="varchar" MaxLength="100" />
+          <Property Name="Director" Type="varchar" MaxLength="50" />
+          <Property Name="Sipnosis" Type="varchar" MaxLength="50" />
+          <Property Name="Reparto" Type="varchar" MaxLength="50" />
+          <Property Name="Duracion" Type="varchar" MaxLength="50" />
+          <Property Name="Fecha" Type="date" />
+          <Property Name="Trailer" Type="varchar" MaxLength="50" />
+          <Property Name="img_logo" Type="varbinary(max)" />
+        </EntityType>
+        <EntityContainer Name="Db_MOVIEModelStoreContainer">
+          <EntitySet Name="dbTrailers" EntityType="Self.dbTrailers" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Db_MOVIEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="dbTrailers">
+          <Key>
+            <PropertyRef Name="ID_Trailer" />
+          </Key>
+          <Property Name="ID_Trailer" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Titulo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Director" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Sipnosis" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Reparto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Duracion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Fecha" Type="DateTime" Precision="0" />
+          <Property Name="Trailer" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="img_logo" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityContainer Name="Db_MOVIEEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="dbTrailers" EntityType="Self.dbTrailers" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Db_MOVIEModelStoreContainer" CdmEntityContainer="Db_MOVIEEntities">
+          <EntitySetMapping Name="dbTrailers">
+            <EntityTypeMapping TypeName="Db_MOVIEModel.dbTrailers">
+              <MappingFragment StoreEntitySet="dbTrailers">
+                <ScalarProperty Name="ID_Trailer" ColumnName="ID_Trailer" />
+                <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+                <ScalarProperty Name="Director" ColumnName="Director" />
+                <ScalarProperty Name="Sipnosis" ColumnName="Sipnosis" />
+                <ScalarProperty Name="Reparto" ColumnName="Reparto" />
+                <ScalarProperty Name="Duracion" ColumnName="Duracion" />
+                <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+                <ScalarProperty Name="Trailer" ColumnName="Trailer" />
+                <ScalarProperty Name="img_logo" ColumnName="img_logo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

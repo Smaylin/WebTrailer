@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Db_MOVIEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="dbTrailers">
+    <Key>
+      <PropertyRef Name="ID_Trailer" />
+    </Key>
+    <Property Name="ID_Trailer" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Titulo" Type="varchar" MaxLength="100" />
+    <Property Name="Director" Type="varchar" MaxLength="50" />
+    <Property Name="Sipnosis" Type="varchar" MaxLength="50" />
+    <Property Name="Reparto" Type="varchar" MaxLength="50" />
+    <Property Name="Duracion" Type="varchar" MaxLength="50" />
+    <Property Name="Fecha" Type="date" />
+    <Property Name="Trailer" Type="varchar" MaxLength="50" />
+    <Property Name="img_logo" Type="varbinary(max)" />
+  </EntityType>
+  <EntityContainer Name="Db_MOVIEModelStoreContainer">
+    <EntitySet Name="dbTrailers" EntityType="Self.dbTrailers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

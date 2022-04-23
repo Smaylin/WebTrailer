@@ -1,0 +1,529 @@
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\WebGrease.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\smail\Desktop\TrailerWeb\TrailerWeb\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\WebGrease.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\Hector Almonte\OneDrive\Escritorio\Trailer\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\WebGrease.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\USER\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\USER\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\EntityFramework.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\WebGrease.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\EntityFramework.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\marye\Desktop\Proyecto de Michael\Trailer (2)\Trailer\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\EntityFramework.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\WebGrease.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\EntityFramework.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\smail\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\smail\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\smail\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\smail\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll.config
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\TrailerWeb.pdb
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.exe.config
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csc.rsp
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.exe.config
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\csi.rsp
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.AppContext.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Console.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.exe.config
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\vbc.rsp
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\EntityFramework.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\WebGrease.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\EntityFramework.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Helpers.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Mvc.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Optimization.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.Razor.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Newtonsoft.Json.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.csproj.CopyComplete
+C:\Users\micha\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.dll
+C:\Users\micha\Desktop\Trailer\TrailerWeb\obj\Debug\TrailerWeb.pdb
+C:\Users\smail\Desktop\Trailer\TrailerWeb\bin\WebActivatorEx.dll
